@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "../ogh2023website"
+  title: "THE BEST"
   navbar:
     left:
       - href: index.qmd
