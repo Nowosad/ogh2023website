@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website was made during the OpenGeoHub summer school 2023
